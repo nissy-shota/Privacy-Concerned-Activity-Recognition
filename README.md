@@ -37,3 +37,10 @@ tree -L 2
 
 ```
 ## preprocessing
+
+- extract_frame.py
+  config.yamlで指定したsave_div_framesにpngを保存する．
+```shell
+cd pre_process
+python3 extract_frame.py
+```
