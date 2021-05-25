@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+data/
+evaluation/
+sample_script_from_official/
 
 # C extensions
 *.so
