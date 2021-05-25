@@ -1,0 +1,4 @@
+preproc:
+  action_split_data: /media/shota/HDD1TB/HomeActionGenome/home_action_gemone_v1/hacgen/action_split_data/V1.0/
+  save_div_frames: /media/shota/HDD1TB/HomeActionGenome/div_frames
+  dim: 192
